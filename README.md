@@ -1,1 +1,1 @@
-Basically this is a repository where I have all of the assets for my school creative project. I'm going to make it about politics as a way to educate people who need a simple way to understand.
+Basically this is a repository where I create all of the things for my website on my game.
